@@ -1,0 +1,501 @@
+Company,Rating,Industry,Location,Reviews,Salaries,Interviews,Jobs,Benefits,Photos,Highly_Rated_For,Critically_Rated_For,Total_Operations_Spread
+TCS,3.3,IT Services & Consulting,Bengaluru,110000.00000000001,980000.0000000001,11900.0,2700.0,10600.0,93.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",440
+Accenture,3.7,IT Services & Consulting,Bengaluru,71700.0,650000.0,9200.0,38800.0,6700.0,49.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",257
+Wipro,3.6,IT Services & Consulting,Hyderabad,63700.0,480000.0,6700.0,7200.0,4600.0,107.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",371
+Cognizant,3.6,IT Services & Consulting,Hyderabad,60100.0,600000.0,6300.0,650.0,5500.0,86.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",231
+Capgemini,3.7,IT Services & Consulting,Bengaluru,51700.0,480000.0,5500.0,2100.0,3700.0,42.0,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",183
+HDFC Bank,3.8,Banking,Mumbai,50900.0,150000.0,3000.0,340.0,3200.0,86.0,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",1835
+Infosys,3.5,IT Services & Consulting,Bengaluru,47500.0,520000.0,8300.0,2500.0,4800.0,118.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",249
+ICICI Bank,4.0,Banking,Mumbai,45100.0,150000.0,2900.0,15.0,3700.0,73.0,"Job Security, Promotions / Appraisal, Skill Development / Learning",Not Mentioned,1440
+HCLTech,3.4,IT Services & Consulting,Chennai,44700.0,380000.0,4500.0,282.0,3800.0,65.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",231
+Tech Mahindra,3.4,IT Services & Consulting,Hyderabad,42500.0,280000.0,4500.0,605.0,3400.0,79.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",332
+Genpact,3.6,IT Services & Consulting,Hyderabad,41100.0,229999.99999999997,3800.0,1600.0,3500.0,66.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",182
+Teleperformance,3.8,BPO,Mumbai,36900.0,96100.0,2200.0,1500.0,1800.0,38.0,"Job Security, Skill Development / Learning, Company Culture",Not Mentioned,256
+Jio,4.4,Telecom,Mumbai,33000.0,62400.0,4100.0,3.0,2500.0,87.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Company Culture",1944
+Axis Bank,3.6,Banking,Mumbai,32500.0,100000.0,1900.0,191.0,2100.0,120.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1508
+Concentrix Corporation,3.6,BPO,Bengaluru,31500.0,130000.0,2000.0,50.0,3100.0,66.0,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,179
+Amazon,3.9,Internet,Bengaluru,30900.0,150000.0,5800.0,1800.0,4100.0,90.0,"Company Culture, Job Security, Skill Development / Learning",Not Mentioned,521
+iEnergizer,4.6,BPO,Noida,27200.0,24100.0,1200.0,82.0,430.0,29.0,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,52
+Reliance Retail,3.9,Retail,Mumbai,27000.0,76400.0,1900.0,147.0,1800.0,135.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1157
+LTIMindtree,3.6,IT Services & Consulting,Bengaluru,26000.0,190000.0,3400.0,556.0,777.0,34.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,146
+IBM,3.9,IT Services & Consulting,Bengaluru,25300.0,210000.0,2600.0,1600.0,2600.0,23.0,Not Mentioned,Not Mentioned,162
+HDB Financial Services,3.9,NBFC,Mumbai,25200.0,49900.0,1100.0,217.0,1500.0,72.0,"Work Life Balance, Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",1092
+Larsen & Toubro Limited,3.9,Engineering & Construction,Chennai,23400.0,74800.0,1800.0,203.0,2500.0,65.0,"Job Security, Skill Development / Learning","Promotions / Appraisal, Work Life Balance",761
+Deloitte,3.7,Management Consulting,Hyderabad,22500.0,250000.0,3300.0,1500.0,2400.0,25.0,Job Security,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",189
+Kotak Mahindra Bank,3.6,Banking,Mumbai,22000.0,86800.0,1400.0,159.0,1300.0,43.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Company Culture",688
+Reliance Industries,4.0,Oil & Gas,Jamnagar,19800.0,73000.0,1600.0,103.0,1800.0,38.0,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,817
+Vodafone Idea,3.9,Telecom,Pune,17400.0,49800.0,674.0,62.0,2000.0,22.0,"Salary & Benefits, Company Culture, Work Life Balance",Promotions / Appraisal,705
+Bharti Airtel,3.8,Telecom,Gurugram,16900.0,49200.0,1100.0,183.0,1600.0,101.0,Not Mentioned,Promotions / Appraisal,793
+BYJUS,3.2,EdTech,Bengaluru,16400.0,54600.0,2100.0,1.0,1700.0,28.0,Not Mentioned,"Job Security, Work Life Balance, Company Culture",323
+WNS,3.3,IT Services & Consulting,Pune,14900.0,69000.0,1200.0,124.0,1300.0,24.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",66
+IDFC FIRST Bank,3.9,Banking,Mumbai,14100.0,49200.0,929.0,35.0,692.0,96.0,"Salary & Benefits, Work Life Balance, Skill Development / Learning",Not Mentioned,716
+Ernst & Young,3.4,Management Consulting,Bengaluru,14100.0,140000.0,1300.0,4400.0,1200.0,9.0,Not Mentioned,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",133
+Tata Motors,4.1,Automobile,Pune,14000.0,42600.0,1200.0,171.0,1600.0,43.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,508
+IndusInd Bank,3.4,Banking,Mumbai,13900.0,52500.0,761.0,111.0,796.0,16.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Satisfaction",793
+AU Small Finance Bank,3.9,Banking,Jaipur,13900.0,28700.0,679.0,87.0,577.0,27.0,"Skill Development / Learning, Salary & Benefits",Not Mentioned,789
+Bajaj Finserv,3.9,NBFC,Pune,12700.0,30200.0,726.0,10.0,706.0,16.0,"Salary & Benefits, Skill Development / Learning, Job Security",Not Mentioned,1172
+Flipkart,3.9,Internet,Bengaluru,12700.0,54500.0,1600.0,156.0,1400.0,102.0,"Company Culture, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,559
+Muthoot FinCorp,4.5,NBFC,Bengaluru,12500.0,9100.0,2200.0,38.0,275.0,103.0,"Company Culture, Work Life Balance, Job Security",Not Mentioned,1102
+PwC,3.3,Management Consulting,Bengaluru,12100.0,120000.0,1600.0,981.0,800.0,24.0,Not Mentioned,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",133
+Mahindra & Mahindra,4.0,Automobile,Pune,11800.0,39900.0,845.0,3.0,1200.0,19.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,564
+Infosys BPM,3.5,BPO,Bengaluru,11800.0,73200.0,1100.0,65.0,1100.0,8.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",97
+DXC Technology,3.6,IT Services & Consulting,Bengaluru,11800.0,73000.0,891.0,236.0,1100.0,9.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",134
+HDFC Life,3.9,Insurance,Mumbai,11800.0,32600.0,782.0,104.0,614.0,55.0,"Job Security, Skill Development / Learning",Not Mentioned,707
+Bandhan Bank,3.7,Banking,Kolkata,10800.0,24800.0,741.0,35.0,517.0,43.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",999
+Digitide Solutions,3.5,IT Services & Consulting,Hyderabad,10200.0,26200.0,563.0,329.0,772.0,47.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",270
+Mphasis,3.3,IT Services & Consulting,Bengaluru,10100.0,73400.0,920.0,75.0,846.0,132.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",65
+Yes Bank,3.6,Banking,Mumbai,10000.0,43100.0,549.0,169.0,608.0,18.0,Not Mentioned,"Job Security, Promotions / Appraisal, Company Culture",542
+Tata Steel,4.0,Iron & Steel,Jamshedpur,9800.0,34000.0,1100.0,0.0,659.0,52.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,230
+Quess,3.8,Recruitment,Bengaluru,9500.0,30900.0,536.0,40.0,440.0,22.0,Not Mentioned,"Promotions / Appraisal, Job Security",743
+Maruti Suzuki,4.2,Automobile,Gurugram,9400.0,28400.0,771.0,755.0,1100.0,25.0,"Job Security, Salary & Benefits, Company Culture",Not Mentioned,452
+Asian Paints,3.9,Chemicals,Mumbai,9300.0,25600.0,841.0,64.0,884.0,34.0,"Salary & Benefits, Skill Development / Learning, Job Security",Promotions / Appraisal,553
+Startek,3.1,BPO,Bengaluru,9300.0,24300.0,627.0,172.0,681.0,16.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",105
+UltraTech Cement,4.1,Building Material,Mumbai,9200.0,23800.0,789.0,28.0,619.0,46.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,541
+Paytm,3.2,FinTech,Noida,9200.0,34100.0,883.0,760.0,582.0,24.0,Not Mentioned,"Job Security, Promotions / Appraisal, Company Culture",419
+Shriram Finance,4.0,NBFC,Chennai,9000.0,15000.0,442.0,14.0,21.0,44.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,1111
+Bajaj Finance,3.9,NBFC,Pune,9000.0,22600.0,430.0,6500.0,502.0,15.0,"Salary & Benefits, Skill Development / Learning, Job Security",Not Mentioned,975
+Sutherland Global Services,3.4,BPO,Chennai,8800.0,34900.0,780.0,269.0,901.0,30.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",84
+Equitas Small Finance Bank,4.4,Banking,Chennai,8800.0,13400.0,1000.0,25.0,397.0,43.0,"Company Culture, Job Security, Skill Development / Learning",Not Mentioned,481
+Cipla,4.1,Pharma,Mumbai,8400.0,26100.0,591.0,70.0,857.0,20.0,"Salary & Benefits, Work Life Balance, Skill Development / Learning",Not Mentioned,294
+EXL Service,3.6,Analytics & KPO,Noida,8400.0,44200.0,897.0,1600.0,799.0,20.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",62
+Wells Fargo,3.7,Financial Services,Bengaluru,8400.0,55800.0,680.0,242.0,855.0,13.0,Work Life Balance,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",28
+Ericsson,3.9,Telecom,Noida,8300.0,42300.0,470.0,75.0,998.0,17.0,"Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",164
+Samsung,3.9,Consumer Electronics & Appliances,Noida,8300.0,26500.0,620.0,19.0,520.0,16.0,"Work Life Balance, Salary & Benefits",Promotions / Appraisal,584
+Dr. Reddys,4.0,Pharma,Hyderabad,8100.0,26100.0,504.0,9.0,740.0,28.0,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,215
+Optum Global Solutions,4.0,IT Services & Consulting,Hyderabad,7700.0,48700.0,757.0,187.0,686.0,1.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,69
+Delhivery,3.8,Logistics,Gurugram,7700.0,21100.0,604.0,185.0,656.0,70.0,Not Mentioned,Promotions / Appraisal,758
+JPMorgan Chase & Co.,3.8,Financial Services,Bengaluru,7600.0,86200.0,862.0,989.0,845.0,14.0,Job Security,Promotions / Appraisal,56
+ICICI Prudential Life Insurance,4.0,Insurance,Mumbai,7600.0,23000.0,475.0,1000.0,625.0,13.0,"Job Security, Salary & Benefits, Skill Development / Learning",Not Mentioned,507
+JSW Steel,3.9,Iron & Steel,Ballari,7600.0,30900.0,798.0,90.0,602.0,32.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,194
+HGS,3.7,BPO,Bengaluru,7500.0,20900.0,274.0,30.0,968.0,32.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits",122
+Jana Small Finance Bank,3.8,Banking,Bengaluru,7500.0,14200.0,305.0,37.0,623.0,17.0,Salary & Benefits,Promotions / Appraisal,419
+Hexaware Technologies,3.4,IT Services & Consulting,Chennai,7500.0,53500.0,819.0,451.0,547.0,30.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",70
+Ujjivan Small Finance Bank,4.0,Banking,Bengaluru,7500.0,12900.0,316.0,192.0,579.0,26.0,"Company Culture, Work Life Balance, Job Security",Not Mentioned,536
+Sun Pharmaceutical Industries,4.1,Pharma,Vadodara,7500.0,23600.0,660.0,369.0,594.0,17.0,"Salary & Benefits, Job Security, Skill Development / Learning",Not Mentioned,265
+Amazon Development Centre India,3.8,Internet,Hyderabad,7400.0,38500.0,881.0,7.0,20.0,12.0,"Company Culture, Work Life Balance",Promotions / Appraisal,147
+Lupin,4.1,Pharma,Pune,7200.0,22600.0,441.0,47.0,764.0,11.0,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,204
+Ekart Logistics,3.9,Logistics,Bengaluru,7200.0,16000.0,406.0,1.0,422.0,75.0,Skill Development / Learning,Promotions / Appraisal,742
+L&T Construction,4.0,Engineering & Construction,Chennai,7200.0,19200.0,945.0,0.0,929.0,35.0,"Job Security, Skill Development / Learning, Salary & Benefits","Work Life Balance, Promotions / Appraisal",434
+Zydus Lifesciences,3.9,Pharma,Ahmedabad,7200.0,20000.0,422.0,24.0,605.0,21.0,"Salary & Benefits, Skill Development / Learning",Not Mentioned,179
+Hindustan Unilever,4.2,FMCG,Mumbai,7100.0,20000.0,465.0,50.0,704.0,3.0,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,539
+KPMG India,3.4,Management Consulting,Bengaluru,7100.0,65300.0,923.0,107.0,749.0,6.0,Not Mentioned,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",113
+ITC,3.9,FMCG,Bengaluru,7000.0,24600.0,687.0,82.0,638.0,14.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,378
+Axis Max Life Insurance,4.0,Insurance,New,7000.0,20200.0,403.0,182.0,495.0,8.0,"Skill Development / Learning, Company Culture, Work Life Balance",Not Mentioned,499
+Megha Engineering Infrastructures,3.9,Engineering & Construction,Hyderabad,6800.0,18700.0,564.0,30.0,539.0,38.0,Work Life Balance,Promotions / Appraisal,408
+Tata Projects,4.2,Engineering & Construction,Mumbai,6700.0,22300.0,591.0,33.0,540.0,59.0,"Salary & Benefits, Company Culture, Work Life Balance",Not Mentioned,286
+Coforge,3.3,IT Services & Consulting,Noida,6600.0,49100.0,705.0,152.0,273.0,102.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Company Culture",104
+Bajaj Life Insurance,3.8,Insurance,Pune,6500.0,17100.0,443.0,65.0,474.0,17.0,Salary & Benefits,Not Mentioned,613
+L&T Technology Services,3.1,IT Services & Consulting,Bengaluru,6400.0,42800.0,627.0,0.0,444.0,11.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",94
+FIS,3.8,FinTech,Pune,6400.0,38600.0,533.0,127.0,721.0,17.0,"Work Life Balance, Company Culture","Promotions / Appraisal, Skill Development / Learning",61
+Cholamandalam Investment Finance,3.8,Financial Services,Chennai,6400.0,12700.0,281.0,23.0,293.0,41.0,Salary & Benefits,Not Mentioned,850
+Oracle,3.5,Software Product,Bengaluru,6300.0,62800.0,947.0,838.0,617.0,39.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",57
+IIFL Finance,4.0,NBFC,Mumbai,6200.0,14200.0,324.0,63.0,399.0,18.0,"Work Life Balance, Company Culture, Job Security",Not Mentioned,803
+Omega Healthcare,3.8,BPO,Chennai,6200.0,26500.0,547.0,122.0,391.0,26.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits",70
+Muthoot Finance,3.7,NBFC,Bengaluru,6200.0,13000.0,350.0,110.0,325.0,12.0,Not Mentioned,Promotions / Appraisal,788
+Indian Army,4.7,Defence & Aerospace,New,6200.0,9600.0,204.0,0.0,728.0,8.0,"Job Security, Company Culture, Work Life Balance",Not Mentioned,364
+JLL,4.1,Real Estate,Gurugram,6200.0,24300.0,482.0,306.0,539.0,21.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,85
+eClerx,3.1,IT Services & Consulting,Pune,6100.0,32100.0,631.0,466.0,555.0,26.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",33
+HCL Group,3.5,IT Services & Consulting,Chennai,6100.0,39700.0,515.0,0.0,661.0,1.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",98
+Virtusa Consulting Services,3.7,IT Services & Consulting,Hyderabad,6000.0,56500.0,671.0,880.0,318.0,23.0,Not Mentioned,"Promotions / Appraisal, Job Security, Salary & Benefits",56
+DMart,3.9,Retail,Mumbai,6000.0,18300.0,545.0,207.0,470.0,17.0,"Job Security, Company Culture",Promotions / Appraisal,248
+Piramal Finance,4.2,NBFC,Mumbai,6000.0,12400.0,293.0,6.0,445.0,4.0,"Company Culture, Work Life Balance, Skill Development / Learning",Not Mentioned,426
+Indiamart Intermesh,3.5,Internet,Noida,5900.0,20700.0,748.0,527.0,432.0,17.0,Not Mentioned,"Work Satisfaction, Promotions / Appraisal, Company Culture",174
+HSBC Group,3.9,Financial Services,Bengaluru,5900.0,43200.0,546.0,126.0,1100.0,26.0,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",64
+SMFG India Credit,3.9,NBFC,Mumbai,5800.0,11200.0,208.0,89.0,348.0,18.0,Salary & Benefits,Promotions / Appraisal,597
+PolicyBazaar,3.7,Internet,Gurugram,5800.0,17300.0,626.0,503.0,231.0,26.0,Salary & Benefits,Work Life Balance,150
+Access Healthcare,3.7,BPO,Chennai,5700.0,28400.0,394.0,869.0,347.0,9.0,Job Security,"Promotions / Appraisal, Skill Development / Learning",64
+Aurobindo Pharma,4.0,Pharma,Hyderabad,5700.0,20600.0,288.0,26.0,468.0,9.0,"Job Security, Salary & Benefits, Work Life Balance",Promotions / Appraisal,116
+Siemens,3.9,Industrial Automation,Bengaluru,5700.0,33800.0,505.0,52.0,633.0,13.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,154
+BigBasket,3.9,Internet,Bengaluru,5700.0,19200.0,481.0,95.0,381.0,36.0,Job Security,Promotions / Appraisal,141
+Udaan,3.9,Internet,Bengaluru,5700.0,15500.0,373.0,8.0,755.0,16.0,"Salary & Benefits, Skill Development / Learning","Job Security, Promotions / Appraisal",368
+Manappuram Finance,3.9,NBFC,Bengaluru,5700.0,9100.0,221.0,3.0,260.0,35.0,"Work Life Balance, Promotions / Appraisal, Skill Development / Learning",Not Mentioned,654
+GlobalLogic,3.5,IT Services & Consulting,Hyderabad,5600.0,40600.0,678.0,39.0,515.0,21.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",61
+Firstsource Solutions,3.5,BPO,Bengaluru,5600.0,24300.0,362.0,155.0,570.0,13.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",75
+Tata Capital,4.0,NBFC,Mumbai,5600.0,15800.0,269.0,4200.0,257.0,23.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,443
+ICICI Lombard General Insurance Company,3.5,Insurance,Mumbai,5600.0,20000.0,354.0,213.0,366.0,15.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Company Culture",317
+Shapoorji Pallonji Group,4.1,Engineering & Construction,Mumbai,5600.0,15300.0,422.0,87.0,632.0,14.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,191
+Standard Chartered,3.6,Banking,Chennai,5600.0,41900.0,322.0,0.0,305.0,0.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",68
+Apollo Hospitals,4.1,Healthcare,Chennai,5500.0,16600.0,479.0,187.0,507.0,2.0,"Job Security, Skill Development / Learning, Company Culture",Not Mentioned,228
+UST,3.7,IT Services & Consulting,Bengaluru,5500.0,39300.0,587.0,218.0,408.0,16.0,Work Life Balance,"Promotions / Appraisal, Job Security, Salary & Benefits",52
+Mahindra Finance,3.9,NBFC,Mumbai,5500.0,12200.0,219.0,464.0,507.0,11.0,Not Mentioned,Promotions / Appraisal,733
+Bosch Global Software Technologies,3.7,IT Services & Consulting,Bengaluru,5500.0,40200.0,388.0,28.0,625.0,21.0,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",48
+Ashok Leyland,4.0,Automobile,Chennai,5500.0,18600.0,320.0,1.0,642.0,15.0,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal,265
+Swiggy,3.7,Internet,Bengaluru,5400.0,23100.0,566.0,240.0,343.0,18.0,Not Mentioned,"Promotions / Appraisal, Job Security, Work Satisfaction",232
+Citicorp,3.7,Financial Services,Pune,5400.0,52300.0,622.0,0.0,517.0,6.0,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",69
+Hero MotoCorp,4.1,Automobile,Gurugram,5400.0,15900.0,407.0,2.0,584.0,9.0,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,368
+CGI Group,4.0,IT Services & Consulting,Bengaluru,5300.0,45600.0,557.0,945.0,354.0,5.0,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits",44
+Cyient,3.6,IT Services & Consulting,Hyderabad,5300.0,27600.0,331.0,96.0,466.0,3.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",50
+SBI Cards Payment Services,3.6,Financial Services,Gurugram,5200.0,16000.0,303.0,60.0,344.0,13.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Company Culture",444
+BNY,3.6,Financial Services,Pune,5200.0,31000.0,396.0,7.0,528.0,1.0,Not Mentioned,"Promotions / Appraisal, Job Security, Work Satisfaction",26
+Kalpataru Projects International,4.2,Engineering & Construction,Mumbai,5100.0,13700.0,329.0,3.0,203.0,21.0,"Job Security, Skill Development / Learning, Salary & Benefits",Not Mentioned,322
+JustDial,3.5,Internet,Noida,5100.0,15300.0,392.0,60.0,372.0,9.0,Not Mentioned,"Promotions / Appraisal, Job Security, Work Satisfaction",232
+IQVIA,3.7,Clinical Research,Bengaluru,5100.0,30700.0,549.0,33.0,524.0,10.0,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",66
+NTT DATA,3.8,IT Services & Consulting,Bengaluru,5100.0,36000.0,744.0,127.0,156.0,1.0,Work Life Balance,Promotions / Appraisal,82
+Nagarjuna Construction Company,4.0,Engineering & Construction,Hyderabad,5100.0,12100.0,436.0,16.0,408.0,12.0,"Job Security, Company Culture, Work Life Balance",Not Mentioned,297
+SBI Life Insurance Company,3.7,Insurance,Mumbai,5000.0,11900.0,308.0,16.0,327.0,18.0,Job Security,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",658
+Schneider Electric,4.1,Industrial Automation,Bengaluru,5000.0,24500.0,453.0,57.0,436.0,13.0,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,120
+TVS Motor,3.9,Automobile,Hosur,5000.0,15900.0,398.0,68.0,537.0,12.0,"Job Security, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,352
+CBRE,4.1,Real Estate,Hyderabad,5000.0,18800.0,346.0,27.0,443.0,19.0,"Company Culture, Work Life Balance, Job Security",Not Mentioned,92
+Persistent Systems,3.6,IT Services & Consulting,Pune,4900.0,44900.0,709.0,392.0,369.0,33.0,Not Mentioned,"Promotions / Appraisal, Job Security, Work Satisfaction",42
+Vivo,4.1,Consumer Electronics & Appliances,Noida,4900.0,12900.0,235.0,4.0,643.0,3.0,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,416
+State Bank of India,3.8,Banking,Mumbai,4900.0,11500.0,308.0,5.0,400.0,5.0,"Job Security, Skill Development / Learning, Salary & Benefits",Not Mentioned,619
+Atos,3.8,IT Services & Consulting,Pune,4900.0,34200.0,407.0,113.0,456.0,10.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",50
+Ecom Express,4.0,Logistics,Gurugram,4800.0,9700.0,263.0,0.0,323.0,39.0,"Work Life Balance, Company Culture, Work Satisfaction",Not Mentioned,777
+KEC International,4.0,Engineering & Construction,Mumbai,4800.0,13400.0,418.0,6.0,441.0,54.0,"Job Security, Salary & Benefits, Company Culture",Promotions / Appraisal,313
+Amdocs,3.6,Software Product,Pune,4800.0,37200.0,559.0,7.0,614.0,20.0,Not Mentioned,"Promotions / Appraisal, Job Security, Work Satisfaction",25
+Eviden,3.6,IT Services & Consulting,Pune,4800.0,27900.0,316.0,8.0,1.0,11.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Job Security",40
+JBM Group,3.9,Auto Components,Gurugram,4700.0,13900.0,348.0,62.0,342.0,21.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,118
+Varun Beverages,4.0,Beverage,New,4700.0,12100.0,345.0,39.0,321.0,31.0,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,381
+ITC Infotech,3.7,IT Services & Consulting,Bengaluru,4700.0,29600.0,412.0,86.0,281.0,11.0,"Work Life Balance, Job Security",Promotions / Appraisal,69
+Nagarro,3.9,IT Services & Consulting,Gurugram,4700.0,32500.0,833.0,364.0,1100.0,19.0,"Company Culture, Work Life Balance",Promotions / Appraisal,50
+Bosch,4.1,Auto Components,Bengaluru,4600.0,20900.0,379.0,0.0,599.0,18.0,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,133
+Randstad,3.7,Recruitment,Hyderabad,4600.0,16600.0,327.0,6.0,342.0,7.0,Not Mentioned,"Promotions / Appraisal, Job Security, Skill Development / Learning",355
+EY Global Delivery Services EY GDS,3.5,IT Services & Consulting,Bengaluru,4600.0,49200.0,884.0,16.0,146.0,16.0,Job Security,"Promotions / Appraisal, Work Satisfaction, Work Life Balance",57
+Utkarsh Small Finance Bank,3.6,Banking,Varanasi,4600.0,11200.0,302.0,40.0,270.0,52.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Satisfaction",408
+Hewlett Packard Enterprise,4.1,IT Services & Consulting,Bengaluru,4500.0,27200.0,267.0,294.0,546.0,18.0,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal,105
+Home Credit Finance,4.0,NBFC,Gurugram,4500.0,9500.0,148.0,88.0,629.0,6.0,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,137
+Aditya Birla Fashion and Retail,4.1,Fashion & Textile,Bengaluru,4500.0,13200.0,266.0,106.0,391.0,14.0,"Job Security, Skill Development / Learning, Company Culture",Not Mentioned,293
+Mahindra Logistics,3.7,Logistics,Mumbai,4500.0,13000.0,252.0,0.0,445.0,24.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits",236
+L&T Finance,3.9,NBFC,Mumbai,4500.0,11700.0,216.0,0.0,261.0,34.0,"Salary & Benefits, Job Security",Promotions / Appraisal,635
+CARS24,3.4,Internet,Gurugram,4500.0,15500.0,407.0,95.0,410.0,17.0,Not Mentioned,"Job Security, Promotions / Appraisal, Company Culture",172
+Havells,3.9,Electrical Equipment,Noida,4500.0,15200.0,290.0,36.0,315.0,9.0,"Work Life Balance, Salary & Benefits",Promotions / Appraisal,263
+Dell,3.8,Consumer Electronics & Appliances,Bengaluru,4500.0,28800.0,424.0,56.0,540.0,25.0,"Work Life Balance, Company Culture","Promotions / Appraisal, Job Security",119
+OPPO,3.9,Consumer Electronics & Appliances,Greater,4400.0,11800.0,251.0,1.0,602.0,10.0,Skill Development / Learning,"Promotions / Appraisal, Job Security",412
+R1 RCM,3.8,BPO,New,4400.0,21400.0,358.0,183.0,335.0,23.0,Job Security,Promotions / Appraisal,47
+Intas Pharmaceuticals,4.1,Pharma,Ahmedabad,4400.0,17300.0,262.0,56.0,362.0,9.0,"Job Security, Salary & Benefits, Work Life Balance",Not Mentioned,151
+Tata AIA Life Insurance,3.9,Insurance,Mumbai,4400.0,14700.0,251.0,640.0,297.0,23.0,"Job Security, Skill Development / Learning, Salary & Benefits",Not Mentioned,443
+Hyundai Motor India Limited,4.1,Automobile,Chennai,4400.0,14000.0,323.0,2.0,519.0,31.0,"Job Security, Salary & Benefits, Work Life Balance",Not Mentioned,287
+Deutsche Bank,3.8,Banking,Pune,4400.0,36200.0,422.0,509.0,399.0,79.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,43
+Hetero,3.9,Pharma,Hyderabad,4400.0,15100.0,311.0,174.0,332.0,13.0,"Job Security, Work Life Balance",Promotions / Appraisal,68
+Motilal Oswal Financial Services,3.7,Financial Services,Mumbai,4300.0,13000.0,543.0,48.0,167.0,90.0,Skill Development / Learning,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",170
+Berger Paints,3.7,Chemicals,Kolkata,4300.0,10100.0,429.0,121.0,273.0,6.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Life Balance",356
+TeamLease Services,3.9,Recruitment,Bengaluru,4300.0,16100.000000000002,250.0,2.0,215.0,6.0,Work Life Balance,Promotions / Appraisal,401
+Lenskart,3.3,Internet,New,4200.0,13200.0,447.0,167.0,199.0,23.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Life Balance",240
+VE Commercial Vehicles,3.9,Automobile,Indore,4200.0,14000.0,285.0,4.0,340.0,12.0,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",181
+Thermax Limited,4.2,Industrial Machinery,Pune,4200.0,13100.0,340.0,84.0,371.0,24.0,"Job Security, Company Culture, Skill Development / Learning",Not Mentioned,253
+Bajaj Auto,3.8,Automobile,Pune,4100.0,14500.0,325.0,0.0,496.0,19.0,Not Mentioned,Promotions / Appraisal,320
+Macleods Pharmaceuticals,3.7,Pharma,Mumbai,4100.0,15600.0,268.0,12.0,334.0,3.0,Job Security,"Promotions / Appraisal, Company Culture",135
+Aakash Educational Services,3.2,Education & Training,New,4100.0,13700.0,369.0,56.0,212.0,25.0,Not Mentioned,"Promotions / Appraisal, Work Life Balance, Job Security",246
+Kogta Financial India Limited,4.7,NBFC,Jaipur,4100.0,1800.0,247.0,120.0,31.0,39.0,"Company Culture, Work Life Balance, Work Satisfaction",Not Mentioned,261
+Jubilant Foods Works,3.7,Hospitality,New,4100.0,9400.0,250.0,221.0,180.0,18.0,Not Mentioned,Promotions / Appraisal,262
+LG Electronics,3.9,Consumer Electronics & Appliances,Pune,4100.0,11000.0,260.0,0.0,399.0,18.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,301
+Hindalco Industries,4.2,Metals & Mining,Sambalpur,4000.0,12700.0,303.0,10.0,327.0,10.0,"Job Security, Work Life Balance, Skill Development / Learning",Not Mentioned,129
+Jindal Steel Limited,3.9,Iron & Steel,Angul,4000.0,15600.0,416.0,46.0,328.0,37.0,Skill Development / Learning,Promotions / Appraisal,175
+Royal Enfield,4.2,Automobile,Chennai,4000.0,14900.0,202.0,20.0,396.0,38.0,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal,375
+State Street Corporation,3.5,Financial Services,Bengaluru,4000.0,31600.0,288.0,6.0,262.0,11.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Company Culture",36
+DCB Bank,3.8,Banking,Mumbai,4000.0,9400.0,227.0,20.0,248.0,23.0,Work Life Balance,Promotions / Appraisal,345
+HDFC Ergo General Insurance,4.0,Insurance,Mumbai,4000.0,12100.0,198.0,39.0,273.0,7.0,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,328
+Tata Communications,3.9,Telecom,Pune,4000.0,23600.0,301.0,369.0,426.0,13.0,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits",103
+John Deere,4.0,Industrial Machinery,Pune,4000.0,15300.0,267.0,1.0,417.0,11.0,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,155
+RBL Bank,3.5,Banking,Mumbai,4000.0,18300.0,240.0,45.0,221.0,11.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Satisfaction",288
+Cummins,4.3,Industrial Machinery,Pune,3900.0,15600.0,285.0,3.0,458.0,16.0,"Company Culture, Work Life Balance, Work Satisfaction",Not Mentioned,117
+Bank of America,4.1,Banking,Gurugram,3900.0,28400.0,291.0,0.0,414.0,0.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,36
+Oyo Rooms,3.0,Internet,Gurugram,3900.0,14300.0,257.0,153.0,389.0,14.0,Not Mentioned,"Job Security, Work Satisfaction, Promotions / Appraisal",122
+Alembic Pharmaceuticals,3.9,Pharma,Vadodara,3900.0,15400.0,255.0,70.0,378.0,9.0,"Salary & Benefits, Work Life Balance",Not Mentioned,188
+Pidilite Industries,4.2,Chemicals,Mumbai,3800.0,11500.0,257.0,13.0,359.0,1.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,317
+Publicis Sapient,3.3,IT Services & Consulting,Bengaluru,3800.0,30900.0,692.0,242.0,391.0,66.0,Not Mentioned,"Promotions / Appraisal, Job Security, Work Satisfaction",47
+Carelon Global Solutions,3.9,IT Services & Consulting,Bengaluru,4100.0,28000.0,418.0,33.0,7.0,9.0,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,22
+Reliance Communications,4.0,Telecom,Mumbai,3800.0,9500.0,106.0,0.0,375.0,1.0,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,469
+Subros,3.8,Auto Components,Noida,3800.0,12500.0,217.0,1.0,379.0,11.0,"Job Security, Skill Development / Learning, Company Culture","Salary & Benefits, Promotions / Appraisal",90
+American Express,4.1,Financial Services,Gurugram,3800.0,24800.0,423.0,135.0,435.0,10.0,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,54
+Altruist Technologies,4.4,BPO,Bengaluru,3800.0,8200.0,710.0,10.0,83.0,6.0,"Job Security, Company Culture, Work Life Balance",Not Mentioned,45
+XpressBees,4.2,Logistics,Pune,3800.0,8200.0,442.0,19.0,176.0,23.0,"Work Life Balance, Company Culture, Work Satisfaction",Not Mentioned,478
+Aditya Birla Sun Life Insurance,4.0,Insurance,Mumbai,3800.0,10100.0,178.0,0.0,214.0,23.0,"Work Life Balance, Company Culture, Job Security",Not Mentioned,490
+Viatris,4.1,Pharma,Hyderabad,3800.0,14200.0,164.0,2.0,500.0,13.0,"Salary & Benefits, Job Security, Work Life Balance",Not Mentioned,81
+Grasim Industries,4.0,Building Material,Bharuch,3800.0,12600.0,277.0,3.0,267.0,11.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,246
+Kyndryl,3.9,IT Services & Consulting,Bengaluru,3800.0,26100.0,224.0,54.0,163.0,59.0,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,38
+Automatic Data Processing (ADP),3.9,Software Product,Hyderabad,3700.0,22000.0,290.0,35.0,457.0,16.0,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",42
+PVR INOX,3.9,Media & Entertainment,New,3700.0,9400.0,214.0,21.0,242.0,5.0,Job Security,Promotions / Appraisal,150
+PNB MetLife,3.4,Insurance,New,3700.0,8100.0,193.0,16.0,217.0,18.0,Not Mentioned,"Job Security, Company Culture, Work Satisfaction",425
+Escorts Kubota Limited,4.1,Automobile,Faridabad,3700.0,13300.0,296.0,4.0,255.0,26.0,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,157
+Aditya Birla Capital,3.8,NBFC,Mumbai,3700.0,14100.0,259.0,1.0,212.0,30.0,"Work Life Balance, Salary & Benefits",Promotions / Appraisal,342
+Maersk,4.0,Logistics,Chennai,3700.0,19000.0,249.0,56.0,421.0,26.0,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,50
+Synechron,3.4,IT Services & Consulting,Pune,3700.0,28100.0,405.0,64.0,239.0,10.0,Not Mentioned,"Job Security, Promotions / Appraisal, Work Satisfaction",33
+KPIT Technologies,2.9,Software Product,Pune,3600.0,23200.0,343.0,39.0,290.0,17.0,Not Mentioned,"Promotions / Appraisal, Job Security, Work Satisfaction",44
+Birlasoft,3.5,IT Services & Consulting,Pune,3600.0,29700.0,315.0,468.0,235.0,8.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",51
+Glenmark Pharmaceuticals,3.8,Pharma,Mumbai,3600.0,12200.0,179.0,59.0,317.0,1.0,Not Mentioned,Promotions / Appraisal,187
+JK Cement,4.0,Building Material,New,3600.0,9800.0,333.0,1.0,257.0,28.0,Salary & Benefits,Not Mentioned,330
+Sodexo,4.0,Facility Management Services,Mumbai,3600.0,9700.0,202.0,1000.0,364.0,22.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,158
+Dabur,3.8,FMCG,New,3600.0,8800.0,330.0,15.0,276.0,5.0,Salary & Benefits,Promotions / Appraisal,321
+Kotak Mahindra Life Insurance Company,3.5,Insurance,Mumbai,3600.0,12800.0,259.0,149.0,256.0,3.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Company Culture",258
+Godrej Boyce Manufacturing,3.9,Consumer Electronics & Appliances,Mumbai,3600.0,15000.0,227.0,41.0,412.0,3.0,Job Security,Promotions / Appraisal,167
+Bharat Electronics,4.2,Electronics Manufacturing,Bengaluru,3600.0,12500.0,245.0,0.0,312.0,1.0,"Work Life Balance, Company Culture, Work Satisfaction",Not Mentioned,88
+Cogent E Services,3.1,BPO,Noida,3600.0,10300.0,294.0,1.0,220.0,13.0,Not Mentioned,"Company Culture, Work Satisfaction, Promotions / Appraisal",57
+Samvardhana Motherson Group,3.7,Auto Components,Noida,3600.0,12100.0,258.0,14.0,403.0,11.0,Job Security,"Promotions / Appraisal, Company Culture, Work Satisfaction",95
+Abbott,4.1,Pharma,Mumbai,3600.0,11900.0,181.0,224.0,361.0,8.0,"Work Life Balance, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,215
+Aarti Industries,4.1,Agro Chemicals,Bharuch,3600.0,14400.0,330.0,14.0,351.0,6.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,59
+Ipca Laboratories,3.8,Pharma,Mumbai,3500.0,11500.0,206.0,53.0,245.0,4.0,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",162
+Reliance Projects Property Management Services,4.0,Other,Kolkata,3500.0,7300.0,210.0,0.0,20.0,6.0,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal,621
+Cloudnine Hospital,4.4,Healthcare,Bengaluru,3500.0,2900.0,1100.0,3.0,78.0,5.0,"Skill Development / Learning, Company Culture, Work Life Balance",Not Mentioned,47
+PhonePe,4.0,FinTech,Bengaluru,3500.0,12800.0,413.0,51.0,183.0,11.0,"Salary & Benefits, Company Culture, Work Life Balance",Not Mentioned,399
+Indian Oil Corporation,4.3,Oil & Gas,New,3500.0,7700.0,235.0,0.0,291.0,32.0,"Company Culture, Work Life Balance, Work Satisfaction",Not Mentioned,312
+Reliance Digital,4.1,Retail,Mumbai,3500.0,8200.0,169.0,2.0,241.0,27.0,"Skill Development / Learning, Job Security, Company Culture",Not Mentioned,379
+MRF Tyres,3.6,Auto Components,Chennai,3500.0,12600.0,372.0,17.0,345.0,9.0,Not Mentioned,"Company Culture, Work Satisfaction, Work Life Balance",194
+Alkem Laboratories,3.9,Pharma,Mumbai,3500.0,9900.0,195.0,21.0,328.0,2.0,Salary & Benefits,Promotions / Appraisal,200
+Johnson Controls,3.5,Industrial Automation,Pune,3500.0,17400.0,301.0,3.0,266.0,28.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Job Security",58
+IGT Solutions,3.2,BPO,New,3500.0,13600.0,255.0,128.0,213.0,14.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",48
+NTT DATA Inc,3.9,IT Services & Consulting,Bengaluru,3500.0,21200.0,152.0,87.0,624.0,7.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,37
+UNO Minda,3.9,Auto Components,Pune,3500.0,11300.0,256.0,18.0,279.0,5.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,111
+Honda Motorcycle Scooter,4.1,Automobile,Gurugram,3400.0,11100.0,203.0,0.0,348.0,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,299
+ArcelorMittal Nippon Steel,4.1,Iron & Steel,Surat,3400.0,11800.0,272.0,6.0,111.0,6.0,"Job Security, Work Life Balance, Company Culture",Not Mentioned,87
+24/7.ai,3.4,Software Product,Bengaluru,3400.0,11500.0,186.0,87.0,406.0,10.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",37
+Vishal Mega Mart,3.8,Retail,New,3400.0,6200.0,209.0,3.0,273.0,12.0,Salary & Benefits,Not Mentioned,379
+Blinkit,3.8,Internet,Gurugram,3400.0,12400.0,336.0,0.0,202.0,27.0,Salary & Benefits,"Promotions / Appraisal, Job Security",148
+Hindustan Coca Cola Beverages,4.0,Beverage,Bengaluru,3400.0,7700.0,178.0,42.0,377.0,4.0,"Skill Development / Learning, Salary & Benefits, Company Culture",Promotions / Appraisal,263
+UBS,3.8,Financial Services,Pune,3400.0,31600.0,370.0,0.0,117.0,11.0,"Work Life Balance, Company Culture","Promotions / Appraisal, Job Security",20
+DTDC Express,3.7,Logistics,New,3400.0,8700.0,194.0,34.0,263.0,2.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits",272
+IndusInd Nippon Life Insurance,3.4,Unknown,Unknown,3400.0,20.0,170.0,2.0,229.0,13.0,Not Mentioned,"Job Security, Company Culture, Work Satisfaction",487
+Bajaj General Insurance Limited,3.7,Insurance,Pune,3300.0,11100.0,139.0,54.0,236.0,9.0,Not Mentioned,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",304
+Ford Motor,4.2,Automobile,Chennai,3300.0,15200.0,174.0,3.0,397.0,12.0,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,131
+Ceat Tyres,3.9,Auto Components,Nagpur,3300.0,12900.0,211.0,9.0,346.0,8.0,"Job Security, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",142
+ABB,4.1,Industrial Machinery,Bengaluru,3300.0,17800.0,290.0,0.0,346.0,5.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,108
+Barclays,3.7,Banking,Pune,3300.0,31500.0,314.0,0.0,253.0,27.0,Not Mentioned,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",36
+HARMAN,3.8,Consumer Electronics & Appliances,Bengaluru,3300.0,24000.0,292.0,117.0,100.0,3.0,Work Life Balance,Promotions / Appraisal,43
+RSPL Group,4.0,FMCG,Kanpur,3300.0,9600.0,257.0,23.0,293.0,8.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,257
+AGS Health,4.0,Analytics & KPO,Chennai,3300.0,14300.0,211.0,49.0,272.0,0.0,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,64
+NatWest Group,4.0,Banking,Gurugram,3300.0,20800.0,234.0,96.0,362.0,9.0,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",29
+TVS Credit Services Ltd,4.2,NBFC,Chennai,3300.0,7500.0,157.0,34.0,194.0,6.0,"Salary & Benefits, Company Culture, Work Life Balance",Not Mentioned,434
+Niva Bupa Health Insurance Company,4.1,Insurance,New,3200.0,8100.0,378.0,100.0,119.0,13.0,"Company Culture, Work Life Balance, Job Security",Not Mentioned,320
+InterGlobe Aviation,3.5,Aviation,New,3200.0,13400.0,368.0,65.0,315.0,5.0,Not Mentioned,"Salary & Benefits, Promotions / Appraisal, Work Life Balance",106
+Croma,3.8,Retail,Mumbai,3200.0,9100.0,185.0,29.0,186.0,9.0,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal,193
+Alstom Transportation,3.7,Engineering & Construction,Bengaluru,3200.0,14900.0,277.0,381.0,174.0,8.0,Job Security,"Promotions / Appraisal, Work Satisfaction",81
+Conduent,3.4,BPO,Bengaluru,3200.0,16700.0,232.0,341.0,366.0,11.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",36
+Indian Air Force,4.6,Defence & Aerospace,New,3200.0,5300.0,81.0,0.0,354.0,0.0,"Job Security, Skill Development / Learning, Salary & Benefits",Not Mentioned,135
+Tata Technologies,3.4,Engineering & Construction,Pune,3200.0,22700.0,307.0,147.0,308.0,14.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",58
+Tata AIG,4.0,Insurance,Mumbai,3200.0,11500.0,192.0,106.0,245.0,6.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,260
+GeBBS Healthcare Solutions,3.7,BPO,Mumbai,3200.0,11200.0,180.0,71.0,291.0,11.0,Job Security,"Promotions / Appraisal, Salary & Benefits",25
+Allcargo Logistics,3.8,Logistics,Mumbai,3200.0,6900.0,138.0,24.0,335.0,10.0,Not Mentioned,Promotions / Appraisal,176
+UPL,4.1,Agro Chemicals,Ankleshwar,3100.0,11200.0,218.0,47.0,293.0,2.0,"Job Security, Company Culture, Work Life Balance",Not Mentioned,186
+Marpu Foundation,4.9,Non-Profit,Hyderabad,3100.0,60.0,265.0,0.0,8.0,5.0,"Company Culture, Work Life Balance, Work Satisfaction",Not Mentioned,62
+Max Healthcare,4.0,Healthcare,New,3100.0,10400.0,187.0,160.0,276.0,26.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,79
+PepsiCo,4.0,Food Processing,Hyderabad,3100.0,13400.0,235.0,294.0,244.0,18.0,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal,278
+Amazon Transportation Services,4.2,Logistics,Hyderabad,3100.0,8300.0,254.0,1.0,246.0,20.0,"Company Culture, Skill Development / Learning, Salary & Benefits",Not Mentioned,227
+Titan Company,4.2,Retail,Bengaluru,3100.0,9500.0,201.0,99.0,332.0,15.0,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,186
+Dilip Buildcon,3.9,Engineering & Construction,Bhopal,3100.0,8000.0,187.0,23.0,298.0,25.0,Salary & Benefits,"Promotions / Appraisal, Job Security",229
+Walmart,3.5,Retail,Bengaluru,3100.0,22400.0,438.0,197.0,320.0,12.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Job Security",92
+Mankind Pharma,3.8,Pharma,New,3100.0,9400.0,255.0,10.0,246.0,14.0,Salary & Benefits,Not Mentioned,247
+Varroc Group,3.6,Auto Components,Pune,3100.0,9500.0,220.0,69.0,230.0,5.0,Not Mentioned,"Promotions / Appraisal, Job Security, Company Culture",63
+Jindal Stainless,4.2,Iron & Steel,Jajpur,3100.0,11300.0,312.0,2.0,186.0,12.0,"Job Security, Work Life Balance, Skill Development / Learning",Not Mentioned,79
+S&P Global,4.0,Analytics & KPO,Hyderabad,3000.0,20300.0,329.0,233.0,212.0,0.0,"Company Culture, Work Life Balance",Promotions / Appraisal,48
+Future Group,4.2,Retail,Mumbai,3000.0,6800.0,84.0,0.0,423.0,3.0,"Skill Development / Learning, Company Culture, Work Life Balance",Not Mentioned,208
+MSN Laboratories,3.6,Pharma,Hyderabad,3000.0,9400.0,171.0,28.0,155.0,7.0,Job Security,"Company Culture, Work Satisfaction, Work Life Balance",106
+Quest Global,3.5,IT Services & Consulting,Bengaluru,3000.0,21200.0,360.0,154.0,191.0,11.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",50
+Societe Generale Global Solution Centre,3.6,IT Services & Consulting,Bengaluru,3000.0,22900.0,295.0,112.0,293.0,0.0,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",24
+Afcons Infrastructure,4.2,Engineering & Construction,Mumbai,3000.0,8600.0,266.0,34.0,309.0,14.0,"Job Security, Skill Development / Learning, Company Culture",Not Mentioned,122
+Torrent Pharmaceuticals,4.0,Pharma,Ahmedabad,3000.0,10100.0,166.0,31.0,310.0,3.0,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",131
+Sagility,3.9,BPO,Bengaluru,3000.0,11600.0,245.0,91.0,36.0,84.0,"Job Security, Company Culture, Work Life Balance","Salary & Benefits, Promotions / Appraisal",28
+IDFC FIRST Bharat,4.2,Financial Services,Chennai,3000.0,5000.0,151.0,3.0,71.0,2.0,"Salary & Benefits, Company Culture, Work Life Balance",Not Mentioned,426
+Square Yards,3.6,Internet,Gurugram,3000.0,9300.0,227.0,60.0,232.0,37.0,Not Mentioned,"Job Security, Work Life Balance, Work Satisfaction",52
+HDFC Sales,3.9,Financial Services,Mumbai,3000.0,8300.0,190.0,10.0,190.0,2.0,"Skill Development / Learning, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",346
+CMS IT Services,3.1,IT Services & Consulting,Mumbai,2900.0,9400.0,158.0,35.0,193.0,7.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Company Culture",153
+ESAF Small Finance Bank,3.6,Banking,Thrissur,2900.0,7700.0,167.0,37.0,104.0,20.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Company Culture",443
+Zensar Technologies,3.7,IT Services & Consulting,Pune,2900.0,25600.0,278.0,361.0,243.0,24.0,Work Life Balance,"Promotions / Appraisal, Job Security, Salary & Benefits",29
+I Process Services,3.8,Recruitment,Mumbai,2900.0,5500.0,133.0,0.0,127.0,4.0,"Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",406
+ACC,3.9,Building Material,Mumbai,2900.0,9000.0,234.0,0.0,271.0,5.0,Not Mentioned,Promotions / Appraisal,275
+Ola Electric Mobility,3.4,Automobile,Bengaluru,2900.0,9300.0,301.0,0.0,76.0,24.0,Not Mentioned,"Job Security, Promotions / Appraisal, Company Culture",425
+DS Group,4.1,FMCG,Noida,2900.0,7800.0,215.0,38.0,207.0,7.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,281
+Suzlon Group,4.0,Power,Pune,2900.0,7800.0,174.0,30.0,322.0,5.0,"Job Security, Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits",142
+Tata Elxsi,3.5,IT Services & Consulting,Bengaluru,2900.0,22800.0,340.0,35.0,202.0,8.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",31
+Eternal Limited,3.7,Internet,Gurugram,2900.0,14600.0,362.0,7.0,218.0,12.0,Salary & Benefits,"Job Security, Promotions / Appraisal, Work Life Balance",221
+Fujitsu,3.8,IT Services & Consulting,Pune,2900.0,17200.0,213.0,128.0,190.0,19.0,"Work Life Balance, Company Culture",Promotions / Appraisal,42
+Shoppers Stop,4.0,Retail,Mumbai,2900.0,6900.0,143.0,45.0,320.0,10.0,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,83
+Bharat Financial Inclusion,3.7,Financial Services,Hyderabad,2900.0,5100.0,124.0,1.0,174.0,22.0,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction",501
+VVDN Technologies,3.6,IT Services & Consulting,Gurugram,2900.0,13600.0,256.0,9.0,127.0,12.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Company Culture",50
+Indus Towers,3.6,Telecom,Gurugram,2900.0,9100.0,223.0,31.0,202.0,11.0,Not Mentioned,"Promotions / Appraisal, Job Security, Work Life Balance",242
+Nokia,4.0,Telecom,Bengaluru,2900.0,16300.0,317.0,274.0,537.0,15.0,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,168
+Apollo Tyres,4.0,Auto Components,Chennai,2900.0,9900.0,151.0,0.0,320.0,7.0,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,180
+Yazaki,3.9,Auto Components,Pune,2800.0,9000.0,181.0,1.0,253.0,2.0,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,95
+IKS Health,3.6,Healthcare,Mumbai,2800.0,11200.0,263.0,20.0,225.0,0.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",32
+Fiserv,2.9,FinTech,Pune,2800.0,17600.0,193.0,9.0,311.0,11.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Satisfaction",33
+Shree Cement,3.8,Building Material,Beawar,2800.0,9700.0,217.0,7.0,214.0,15.0,Not Mentioned,"Promotions / Appraisal, Job Security",256
+UnitedHealth,4.0,Healthcare,Hyderabad,2800.0,14400.0,84.0,0.0,432.0,0.0,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",19
+Britannia,4.0,FMCG,Pune,2800.0,8100.0,224.0,9.0,245.0,8.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,305
+Landmark Group,3.8,Retail,Bengaluru,2800.0,9200.0,175.0,10.0,267.0,9.0,Job Security,Promotions / Appraisal,176
+SRF,4.1,Chemicals,Bharuch,2700.0,8900.0,208.0,11.0,248.0,5.0,"Job Security, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,69
+Dalmia Bharat Cement,3.9,Building Material,Guwahati,2700.0,4500.0,197.0,3.0,243.0,16.0,"Job Security, Salary & Benefits",Promotions / Appraisal,253
+Blue Dart Express Ltd,3.9,Logistics,Mumbai,2700.0,6800.0,128.0,8.0,233.0,9.0,"Job Security, Company Culture",Promotions / Appraisal,280
+Zepto,3.5,Internet,Bengaluru,2700.0,9100.0,442.0,33.0,28.0,10.0,Not Mentioned,"Job Security, Company Culture, Work Life Balance",102
+Kansai Nerolac Paints,3.8,Chemicals,Mumbai,2700.0,7700.0,190.0,72.0,189.0,6.0,Not Mentioned,Promotions / Appraisal,254
+Exide Industries,3.4,Auto Components,Kolkata,2700.0,8600.0,212.0,61.0,242.0,6.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Satisfaction",202
+Nestlé,3.8,FMCG,Gurugram,2700.0,9700.0,282.0,28.0,319.0,19.0,Salary & Benefits,"Promotions / Appraisal, Work Life Balance",281
+Shell,3.9,Oil & Gas,Bengaluru,2700.0,13900.0,235.0,61.0,257.0,8.0,"Work Life Balance, Company Culture, Salary & Benefits","Promotions / Appraisal, Job Security",92
+Tata Electronics,3.9,Semiconductors,Hosur,2700.0,10900.0,257.0,64.0,61.0,6.0,Job Security,"Promotions / Appraisal, Salary & Benefits",51
+WhiteHat Jr,3.3,EdTech,Mumbai,2700.0,9300.0,265.0,0.0,944.0,3.0,Not Mentioned,"Job Security, Promotions / Appraisal, Company Culture",49
+KPMG Global Services,3.5,Management Consulting,Bengaluru,2700.0,23800.0,256.0,19.0,6.0,0.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",38
+Flex,3.9,Electronics Manufacturing,Chennai,2700.0,15800.0,211.0,42.0,439.0,14.0,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal,47
+ZS,3.1,Management Consulting,Pune,2700.0,20100.0,519.0,101.0,261.0,18.0,Not Mentioned,"Work Life Balance, Work Satisfaction, Promotions / Appraisal",18
+Micro Labs,3.6,Pharma,Bengaluru,2700.0,9800.0,152.0,18.0,205.0,2.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",153
+Star Health Allied Insurance,3.5,Insurance,Chennai,2600.0,9900.0,156.0,14.0,164.0,16.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Satisfaction",331
+TVS Supply Chain Solutions,3.8,Logistics,Chennai,2600.0,8400.0,157.0,13.0,191.0,21.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits",155
+Capita,3.5,BPO,Pune,2600.0,12800.0,165.0,45.0,330.0,3.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Job Security",32
+ElasticRun,3.6,Logistics,Pune,2600.0,6100.0,274.0,1.0,224.0,45.0,Salary & Benefits,"Job Security, Promotions / Appraisal, Work Satisfaction",386
+KFintech,3.4,Financial Services,Hyderabad,2600.0,11100.0,170.0,12.0,47.0,2.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",114
+G4S,4.0,Law Enforcement & Security,Gurugram,2600.0,5100.0,128.0,646.0,235.0,15.0,"Work Life Balance, Salary & Benefits, Company Culture",Promotions / Appraisal,164
+Voltas,4.0,Consumer Electronics & Appliances,Mumbai,2600.0,8600.0,175.0,19.0,257.0,1.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,207
+Sonalika Tractors,3.6,Automobile,Hoshiarpur,2600.0,8900.0,170.0,2.0,173.0,4.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Life Balance",195
+Ajanta Pharma,3.9,Pharma,Mumbai,2600.0,8900.0,164.0,14.0,214.0,10.0,Job Security,Promotions / Appraisal,119
+BlackBuck,3.7,Internet,Bengaluru,2600.0,6400.0,213.0,18.0,245.0,13.0,Not Mentioned,"Job Security, Promotions / Appraisal",366
+Care Health Insurance,3.6,Insurance,Gurugram,2600.0,8500.0,161.0,44.0,166.0,2.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Satisfaction",246
+Blue Star,4.1,Consumer Electronics & Appliances,Mumbai,2600.0,9800.0,197.0,19.0,237.0,18.0,"Company Culture, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,148
+EXL India,3.6,Logistics,New,2600.0,15100.0,130.0,2.0,163.0,1.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",45
+Dominos Pizza,3.9,Hospitality,New,2600.0,4100.0,125.0,0.0,392.0,16.0,"Skill Development / Learning, Salary & Benefits",Not Mentioned,250
+Movate,3.1,IT Services & Consulting,Chennai,2600.0,14900.0,292.0,88.0,2.0,24.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Company Culture",39
+NoBroker,3.0,Internet,Bengaluru,2600.0,10700.0,280.0,323.0,352.0,25.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Job Security",48
+Fortis Healthcare,4.0,Healthcare,New,2500.0,7500.0,190.0,785.0,139.0,3.0,"Job Security, Company Culture, Work Life Balance",Not Mentioned,70
+Adani Power,3.7,Power,Mundra,2500.0,9700.0,308.0,0.0,162.0,9.0,Not Mentioned,Promotions / Appraisal,129
+Gallagher,3.7,Insurance,Bengaluru,2500.0,14000.0,269.0,141.0,120.0,1.0,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",30
+ACT Fibernet,3.9,Telecom,Hyderabad,2500.0,7800.0,159.0,140.0,255.0,16.0,"Company Culture, Job Security",Promotions / Appraisal,58
+DBS Bank,3.7,Banking,Hyderabad,2500.0,12900.0,194.0,253.0,192.0,11.0,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction",178
+Sahrudaya Healthcare Medicover Hospitals,4.4,Healthcare,Hyderabad,2500.0,3400.0,144.0,9.0,36.0,4.0,"Company Culture, Work Life Balance, Work Satisfaction",Not Mentioned,46
+Foxconn,3.9,Electronics Manufacturing,Chennai,2500.0,10400.0,226.0,23.0,170.0,3.0,Job Security,Promotions / Appraisal,62
+Foundever,3.4,BPO,Hyderabad,2500.0,8700.0,179.0,87.0,199.0,14.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",23
+Physicswallah,3.6,EdTech,Noida,2500.0,8100.0,271.0,100.0,20.0,11.0,Not Mentioned,"Promotions / Appraisal, Job Security, Work Satisfaction",125
+Tata Advanced Systems,3.7,Defence & Aerospace,Bengaluru,2500.0,12700.0,186.0,0.0,132.0,6.0,Job Security,"Promotions / Appraisal, Salary & Benefits",59
+Sterlite Technologies,3.8,Hardware & Networking,Chhatrapati,2500.0,10200.0,182.0,115.0,208.0,10.0,Not Mentioned,"Promotions / Appraisal, Job Security",102
+Bajaj Electricals,3.9,Consumer Electronics & Appliances,Mumbai,2500.0,7400.0,150.0,24.0,289.0,6.0,"Work Life Balance, Salary & Benefits",Promotions / Appraisal,234
+BT Group,3.8,Telecom,Gurugram,2500.0,11500.0,225.0,3.0,264.0,22.0,"Work Life Balance, Company Culture","Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",25
+Photon Interactive,4.1,IT Services & Consulting,Chennai,2500.0,7300.0,132.0,897.0,123.0,0.0,"Skill Development / Learning, Salary & Benefits, Company Culture",Not Mentioned,19
+Alldigi Tech,3.9,BPO,Chennai,2500.0,7600.0,232.0,13.0,112.0,33.0,"Work Life Balance, Job Security",Promotions / Appraisal,37
+V Mart,4.1,Retail,Gurugram,2500.0,4300.0,192.0,19.0,210.0,15.0,"Job Security, Skill Development / Learning, Work Life Balance",Not Mentioned,285
+Himalaya Wellness,4.0,Pharma,Bengaluru,2500.0,5900.0,147.0,28.0,255.0,7.0,"Work Life Balance, Company Culture",Promotions / Appraisal,238
+Sammaan Capital Limited,3.8,NBFC,Gurugram,2500.0,5800.0,113.0,4.0,118.0,2.0,Work Life Balance,Promotions / Appraisal,202
+Tractors and Farm Equipment,3.9,Industrial Machinery,Chennai,2500.0,8300.0,135.0,17.0,275.0,9.0,"Work Life Balance, Skill Development / Learning",Promotions / Appraisal,193
+Northern Trust Operating Services,3.6,Financial Services,Bengaluru,2500.0,17100.0,241.0,36.0,225.0,13.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",28
+IntouchCX,2.7,BPO,Hyderabad,2500.0,9900.0,240.0,204.0,146.0,17.0,Not Mentioned,"Promotions / Appraisal, Job Security, Company Culture",23
+JCB,3.9,Industrial Machinery,Pune,2500.0,9500.0,168.0,0.0,233.0,7.0,"Work Life Balance, Salary & Benefits",Promotions / Appraisal,114
+Laurus Labs,4.3,Pharma,Visakhapatnam,2500.0,7200.0,154.0,6.0,206.0,11.0,"Job Security, Salary & Benefits, Company Culture",Not Mentioned,35
+Parle Agro,3.9,Beverage,Mumbai,2500.0,6700.0,143.0,3.0,212.0,0.0,"Work Life Balance, Job Security",Promotions / Appraisal,257
+Patanjali Ayurved,3.9,FMCG,Haridwar,2400.0,5800.0,135.0,0.0,248.0,3.0,Work Life Balance,Promotions / Appraisal,302
+Planet Spark,3.9,EdTech,Gurugram,2400.0,3500.0,591.0,72.0,191.0,1.0,"Skill Development / Learning, Company Culture, Work Life Balance",Not Mentioned,62
+McDonalds,3.8,Hospitality,New,2400.0,5000.0,155.0,1.0,410.0,6.0,"Skill Development / Learning, Job Security",Salary & Benefits,150
+Paras Hospital,4.1,Healthcare,Patna,2400.0,3200.0,99.0,69.0,126.0,43.0,"Skill Development / Learning, Work Life Balance, Salary & Benefits",Not Mentioned,63
+State Street HCL Services,3.4,BPO,Chennai,2400.0,13700.0,219.0,0.0,201.0,0.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Company Culture",19
+Canara HSBC Life Insurance,3.6,Insurance,Gurugram,2400.0,6200.0,132.0,5.0,168.0,9.0,Not Mentioned,"Company Culture, Work Satisfaction, Job Security",315
+ICICI Securities,3.9,Financial Services,Mumbai,2400.0,9800.0,196.0,1.0,184.0,4.0,"Job Security, Work Life Balance, Company Culture",Not Mentioned,149
+Emcure Pharmaceuticals,3.6,Pharma,Pune,2400.0,8300.0,125.0,48.0,233.0,13.0,Not Mentioned,"Promotions / Appraisal, Job Security, Company Culture",116
+Hero FinCorp,3.9,NBFC,New,2400.0,5700.0,120.0,46.0,129.0,2.0,"Work Life Balance, Company Culture",Promotions / Appraisal,392
+Mahindra Rural Housing Finance,4.0,NBFC,Mumbai,2400.0,4800.0,104.0,7.0,180.0,6.0,"Work Life Balance, Company Culture",Promotions / Appraisal,464
+Biocon Limited,4.0,Biotechnology,Bengaluru,2400.0,11700.0,186.0,14.0,2.0,1.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,66
+Mahindra Holidays Resorts,3.5,Hospitality,Mumbai,2400.0,5800.0,127.0,54.0,202.0,16.0,Not Mentioned,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",114
+Intellect Design Arena,3.6,Software Product,Chennai,2400.0,13400.0,182.0,12.0,118.0,8.0,Job Security,"Promotions / Appraisal, Company Culture, Work Life Balance",41
+Datamatics Global Services,3.4,IT Services & Consulting,Mumbai,2400.0,11700.0,180.0,64.0,183.0,5.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Company Culture",38
+Adani Group,3.8,Power,Ahmedabad,2400.0,11000.0,286.0,997.0,101.0,8.0,Salary & Benefits,Promotions / Appraisal,196
+CorroHealth Infotech,3.6,Analytics & KPO,Hyderabad,2400.0,7300.0,278.0,96.0,9.0,18.0,Salary & Benefits,"Work Life Balance, Work Satisfaction, Job Security",36
+Taj Hotels Resorts and Palaces,4.2,Hospitality,Mumbai,2400.0,4800.0,157.0,179.0,178.0,5.0,"Job Security, Company Culture, Skill Development / Learning",Not Mentioned,110
+Axis Direct,3.6,Financial Services,Mumbai,2400.0,4700.0,87.0,43.0,226.0,0.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",271
+Cadila Pharmaceuticals,3.3,Pharma,Ahmedabad,2300.0,7800.0,157.0,132.0,167.0,13.0,Not Mentioned,"Job Security, Promotions / Appraisal, Work Satisfaction",135
+3i Infotech,3.4,IT Services & Consulting,Mumbai,2300.0,10600.0,164.0,57.0,149.0,1.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",130
+Cholamandalam MS General Insurance,3.7,Insurance,Chennai,2300.0,6000.0,115.0,0.0,166.0,4.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction",388
+Capgemini Engineering,3.4,IT Services & Consulting,Bengaluru,2300.0,14500.0,396.0,0.0,139.0,4.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",28
+Aditya Birla Group,4.1,Metals & Mining,Mumbai,2300.0,10000.0,242.0,1.0,248.0,15.0,"Job Security, Work Life Balance, Skill Development / Learning",Not Mentioned,268
+Info Edge,3.9,Internet,Noida,2300.0,11200.0,378.0,376.0,298.0,28.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,70
+Syngene International,3.8,Clinical Research,Bengaluru,2300.0,12600.0,191.0,0.0,216.0,16.0,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",22
+KocharTech,3.6,IT Services & Consulting,Kolkata,2300.0,3800.0,80.0,41.0,582.0,6.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",26
+Bureau Veritas,3.8,Other,Mumbai,2300.0,8100.0,143.0,12.0,176.0,12.0,Work Life Balance,Promotions / Appraisal,147
+Cybage,3.8,IT Services & Consulting,Pune,2300.0,17200.0,213.0,32.0,268.0,4.0,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",16
+Delhi Public School,3.8,Education & Training,New,2300.0,5200.0,155.0,170.0,258.0,8.0,Skill Development / Learning,Promotions / Appraisal,274
+Aavas Financiers,3.9,NBFC,Jaipur,2300.0,5500.0,120.0,47.0,138.0,7.0,Skill Development / Learning,Not Mentioned,294
+RMSI,3.6,IT Services & Consulting,Hyderabad,2300.0,8600.0,193.0,13.0,184.0,4.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",26
+Xoriant,4.1,IT Services & Consulting,Pune,2300.0,11500.0,233.0,51.0,413.0,48.0,"Work Life Balance, Company Culture, Work Satisfaction",Not Mentioned,24
+Lifestyle,4.2,Retail,Bengaluru,2300.0,6800.0,83.0,13.0,278.0,10.0,"Company Culture, Work Life Balance, Job Security",Not Mentioned,130
+Akums Drugs Pharmaceuticals Limited,4.2,Pharma,Haridwar,2300.0,6200.0,329.0,8.0,147.0,22.0,"Job Security, Company Culture, Work Life Balance",Not Mentioned,40
+TaskUs,3.1,BPO,Indore,2300.0,9200.0,222.0,221.0,118.0,10.0,Not Mentioned,"Promotions / Appraisal, Job Security, Skill Development / Learning",36
+Sopra Steria,3.9,IT Services & Consulting,Noida,2300.0,13900.0,184.0,173.0,240.0,6.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,21
+Kia India,4.0,Automobile,Anantapur,2300.0,8200.0,177.0,85.0,166.0,14.0,"Company Culture, Job Security, Skill Development / Learning",Promotions / Appraisal,189
+Straive,3.3,IT Services & Consulting,Chennai,2300.0,10100.0,221.0,100.0,122.0,15.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",32
+GVK Emergency Management and Research Institute,3.6,Non-Profit,Lucknow,2300.0,4600.0,117.0,58.0,176.0,7.0,Not Mentioned,"Promotions / Appraisal, Job Security, Salary & Benefits",214
+Eureka Forbes,3.7,Consumer Electronics & Appliances,Mumbai,2300.0,5600.0,91.0,9.0,227.0,5.0,Not Mentioned,"Promotions / Appraisal, Job Security, Company Culture",184
+Sobha,3.8,Real Estate,Bengaluru,2300.0,8300.0,165.0,41.0,220.0,9.0,Job Security,"Promotions / Appraisal, Work Life Balance, Salary & Benefits",38
+Apollo Pharmacy,3.7,Pharma,Hyderabad,2200.0,6900.0,184.0,1000.0,128.0,6.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",282
+Unacademy,2.9,EdTech,Bengaluru,2200.0,10200.0,238.0,31.0,153.0,41.0,Not Mentioned,"Job Security, Promotions / Appraisal, Work Life Balance",73
+Radisson Hotels,4.0,Hospitality,New,2200.0,5100.0,102.0,23.0,312.0,12.0,"Job Security, Skill Development / Learning, Company Culture",Not Mentioned,129
+Lodha,4.1,Real Estate,Mumbai,2200.0,8600.0,171.0,194.0,173.0,8.0,"Company Culture, Work Life Balance, Job Security",Not Mentioned,31
+Endurance Technologies Limited,3.9,Auto Components,Chhatrapati,2200.0,7800.0,135.0,18.0,230.0,1.0,"Skill Development / Learning, Job Security",Promotions / Appraisal,51
+Myntra,3.9,Internet,Bengaluru,2200.0,10400.0,326.0,33.0,305.0,37.0,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,104
+Team Computers,3.6,IT Services & Consulting,New,2200.0,8400.0,200.0,154.0,115.0,1.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits",106
+SBI Securities,3.6,Financial Services,Mumbai,2200.0,6800.0,182.0,38.0,105.0,21.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",316
+Panasonic Life Solutions India,3.9,Consumer Electronics & Appliances,Haridwar,2200.0,6800.0,96.0,21.0,105.0,6.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,169
+TCE,3.8,Engineering & Construction,Mumbai,2200.0,9300.0,293.0,7.0,165.0,9.0,"Work Life Balance, Job Security",Promotions / Appraisal,133
+Lava International,3.9,Consumer Electronics & Appliances,Noida,2200.0,4400.0,87.0,2.0,302.0,3.0,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,223
+AWL Agri Business,4.0,FMCG,Ahmedabad,2200.0,6800.0,133.0,94.0,171.0,8.0,"Job Security, Skill Development / Learning, Salary & Benefits",Not Mentioned,200
+Star Union Dai-ichi Life Insurance,3.8,Insurance,Mumbai,2200.0,5200.0,133.0,26.0,95.0,23.0,Not Mentioned,Not Mentioned,316
+Whirlpool,4.0,Consumer Electronics & Appliances,Pune,2200.0,7900.0,118.0,14.0,202.0,9.0,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,176
+Indian Railways,4.2,Railways,Kolkata,2200.0,3400.0,113.0,1.0,159.0,17.0,"Job Security, Work Life Balance, Skill Development / Learning",Not Mentioned,250
+Daikin Airconditioning India Pvt Ltd,4.2,Consumer Electronics & Appliances,Neemrana,2200.0,7600.0,205.0,0.0,144.0,2.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,109
+Bharti AXA Life Insurance,3.6,Insurance,Mumbai,2200.0,5200.0,147.0,41.0,170.0,10.0,Not Mentioned,"Job Security, Work Satisfaction, Promotions / Appraisal",244
+Cisco,4.1,Hardware & Networking,Bengaluru,2200.0,18500.0,411.0,143.0,223.0,18.0,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,47
+SBI General Insurance,3.6,Insurance,Mumbai,2200.0,6500.0,128.0,46.0,132.0,6.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Company Culture",288
+GlaxoSmithKline Pharmaceuticals,4.0,Pharma,Bengaluru,2200.0,5600.0,125.0,35.0,112.0,1.0,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,217
+GAO Tek,4.5,Electrical Equipment,New,2200.0,259.0,531.0,0.0,26.0,1.0,"Skill Development / Learning, Work Life Balance, Company Culture",Salary & Benefits,42
+Newgen Software Technologies,4.0,IT Services & Consulting,Noida,2200.0,11500.0,202.0,34.0,147.0,8.0,"Job Security, Salary & Benefits, Company Culture",Not Mentioned,33
+Coromandel International,4.1,Agro Chemicals,Visakhapatnam,2100.0,7500.0,125.0,24.0,218.0,3.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,184
+Nokia Networks,4.1,Hardware & Networking,Chennai,2100.0,10500.0,126.0,0.0,10.0,0.0,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,88
+BNP Paribas,3.7,Banking,Mumbai,2100.0,17800.0,211.0,10.0,174.0,8.0,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",28
+Renault Nissan Technology Business Centre India,3.8,Automobile,Chennai,2100.0,14500.0,152.0,24.0,210.0,0.0,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",20
+Meesho,3.7,Internet,Bengaluru,2100.0,9400.0,424.0,116.0,297.0,13.0,Salary & Benefits,"Job Security, Promotions / Appraisal",132
+Sify Technologies,3.6,IT Services & Consulting,Chennai,2100.0,9800.0,147.0,51.0,152.0,4.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Company Culture",133
+Shahi Exports,3.9,Fashion & Textile,Bengaluru,2100.0,6800.0,125.0,39.0,228.0,25.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,73
+Ambuja Cements,3.8,Building Material,Mumbai,2100.0,6000.0,162.0,0.0,211.0,6.0,Not Mentioned,"Promotions / Appraisal, Job Security",260
+Allstate,3.6,Insurance,Pune,2100.0,12200.0,156.0,18.0,186.0,6.0,Work Life Balance,"Promotions / Appraisal, Work Satisfaction, Job Security",17
+ValueLabs,3.5,IT Services & Consulting,Hyderabad,2100.0,16000.0,215.0,67.0,266.0,11.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Job Security",21
+Microsoft Corporation,3.8,Software Product,Bengaluru,2100.0,29100.0,614.0,0.0,196.0,7.0,"Work Life Balance, Company Culture","Job Security, Promotions / Appraisal",48
+Bank of Baroda,3.5,Banking,Mumbai,2100.0,7000.0,116.0,0.0,150.0,15.0,Job Security,"Promotions / Appraisal, Company Culture, Work Satisfaction",300
+Life Insurance Corporation of India,4.4,Insurance,New,2100.0,4600.0,97.0,1.0,242.0,21.0,"Work Life Balance, Company Culture, Skill Development / Learning",Not Mentioned,471
+Huawei Technologies,4.0,Telecom,Bengaluru,2100.0,8100.0,119.0,34.0,288.0,1.0,"Salary & Benefits, Skill Development / Learning",Job Security,105
+Brakes India,3.9,Auto Components,Chennai,2100.0,7100.0,104.0,6.0,212.0,2.0,"Job Security, Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits",101
+Cargill,3.9,Food Processing,Bengaluru,2100.0,8400.0,111.0,280.0,148.0,7.0,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,121
+BHEL,4.2,Electrical Equipment,Bengaluru,2100.0,5200.0,135.0,0.0,231.0,9.0,"Job Security, Work Life Balance, Company Culture",Not Mentioned,129
+Spark Minda,3.8,Auto Components,Pune,2100.0,7100.0,158.0,12.0,36.0,18.0,Not Mentioned,Promotions / Appraisal,76
+Simplex Infrastructures,3.4,Engineering & Construction,Kolkata,2100.0,4600.0,83.0,0.0,286.0,0.0,Not Mentioned,"Promotions / Appraisal, Salary & Benefits, Work Life Balance",139
+Power Mech Projects,3.8,Engineering & Construction,Hyderabad,2100.0,6700.0,121.0,7.0,158.0,5.0,Job Security,"Promotions / Appraisal, Company Culture, Salary & Benefits",153
+upGrad,3.4,EdTech,Bengaluru,2100.0,9200.0,217.0,57.0,125.0,18.0,Not Mentioned,"Job Security, Promotions / Appraisal, Work Satisfaction",50
+CAMS,3.6,Financial Services,Chennai,2100.0,8600.0,146.0,25.0,50.0,6.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",108
+Pfizer,3.9,Pharma,Visakhapatnam,2100.0,5800.0,86.0,58.0,276.0,6.0,"Work Life Balance, Company Culture","Promotions / Appraisal, Job Security",133
+FirstCry,3.6,Retail,Pune,2100.0,8800.0,209.0,30.0,70.0,6.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Satisfaction",214
+Mercedes Benz Research and Development India,3.6,IT Services & Consulting,Bengaluru,2100.0,17600.0,208.0,124.0,195.0,7.0,"Work Life Balance, Job Security","Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",53
+Poonawalla Fincorp,3.6,NBFC,Pune,2100.0,5700.0,81.0,27.0,129.0,0.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Satisfaction",264
+Generali Central Life Insurance,3.5,Insurance,Mumbai,2100.0,6600.0,118.0,36.0,163.0,7.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Job Security",200
+Bharat Petroleum,4.2,Oil & Gas,Mumbai,2100.0,6800.0,174.0,0.0,187.0,16.0,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal,261
+Force Motors,3.7,Automobile,Pune,2100.0,8200.0,145.0,4.0,152.0,5.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Satisfaction",107
+Maruti Suzuki India Limited Hansalpur,4.2,Automobile,Ahmedabad,2100.0,6800.0,227.0,0.0,113.0,2.0,"Job Security, Salary & Benefits, Company Culture",Not Mentioned,104
+Saint Gobain,3.9,Building Material,Mumbai,2100.0,11400.0,206.0,147.0,243.0,9.0,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",104
+Saint Gobain,3.9,Building Material,Mumbai,2100.0,11400.0,206.0,149.0,243.0,9.0,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",104
+NTT DATA Business Solutions,4.1,IT Services & Consulting,Bengaluru,2100.0,12300.0,273.0,25.0,14.0,59.0,"Work Life Balance, Company Culture, Job Security",Not Mentioned,33
+Ola Cabs,3.3,Internet,Bengaluru,2100.0,9100.0,153.0,14.0,227.0,10.0,Not Mentioned,"Job Security, Promotions / Appraisal, Company Culture",113
+Jio Platforms,3.4,IT Services & Consulting,Mumbai,2100.0,13700.0,258.0,0.0,62.0,0.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",104
+Reliance Trends,4.0,Retail,Bengaluru,2000.0,4200.0,123.0,0.0,220.0,31.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,394
+Kotak Securities,3.5,Financial Services,Mumbai,2000.0,9500.0,145.0,29.0,153.0,3.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",140
+Raymond Lifestyle Limited,4.1,Fashion & Textile,Mumbai,2000.0,6500.0,114.0,0.0,230.0,9.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,150
+Manipal Hospitals,4.1,Healthcare,Bengaluru,2000.0,6800.0,137.0,69.0,135.0,4.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,67
+Renault Nissan,4.1,Automobile,Chennai,2000.0,7500.0,125.0,0.0,268.0,9.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,87
+IndusInd General Insurance,3.6,Insurance,Mumbai,2000.0,7100.0,99.0,7.0,131.0,2.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction, Company Culture",194
+Delphi TVS,3.9,Auto Components,Chennai,2000.0,5600.0,100.0,5.0,192.0,0.0,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits",61
+ITC Hotels,4.1,Hospitality,Bengaluru,2000.0,5200.0,103.0,0.0,199.0,15.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,96
+Henry Harvin Education,3.6,EdTech,Noida,2000.0,908.0,73.0,53.0,63.0,2.0,Not Mentioned,"Job Security, Promotions / Appraisal, Work Satisfaction",34
+Extramarks Education,3.4,EdTech,Noida,2000.0,7400.0,172.0,14.0,142.0,2.0,Not Mentioned,"Promotions / Appraisal, Job Security, Work Satisfaction",112
+CitiusTech,3.2,IT Services & Consulting,Mumbai,2000.0,14200.0,313.0,73.0,163.0,14.0,"Job Security, Company Culture, Work Life Balance",Not Mentioned,18
+Biological E,4.2,Pharma,Hyderabad,2000.0,7000.0,140.0,36.0,221.0,0.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Salary & Benefits",72
+JK Tyre,3.7,Auto Components,Chennai,2000.0,6800.0,140.0,0.0,189.0,4.0,Not Mentioned,"Promotions / Appraisal, Job Security, Company Culture",142
+Infinite Computer Solutions,3.3,IT Services & Consulting,Bengaluru,2000.0,14900.0,173.0,222.0,105.0,19.0,Not Mentioned,"Promotions / Appraisal, Job Security, Work Satisfaction",37
+Morgan Stanley,3.6,Financial Services,Mumbai,2000.0,26000.0,336.0,6.0,151.0,8.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",20
+SGS,3.8,"Testing, Inspection and Certification (TIC)",Mumbai,2000.0,6300.0,125.0,131.0,178.0,1.0,Not Mentioned,Not Mentioned,146
+YASH Technologies,3.7,IT Services & Consulting,Hyderabad,2000.0,16300.0,170.0,492.0,172.0,34.0,Work Life Balance,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",32
+EPAM Systems,3.7,IT Services & Consulting,Hyderabad,2000.0,21700.0,621.0,84.0,132.0,7.0,"Skill Development / Learning, Salary & Benefits, Work Life Balance","Promotions / Appraisal, Job Security, Work Satisfaction",36
+Senco Gold,4.4,Jewellery,Kolkata,2000.0,1500.0,633.0,2.0,35.0,9.0,"Job Security, Skill Development / Learning, Company Culture",Not Mentioned,79
+State Street Syntel,3.7,Financial Services,Mumbai,2000.0,7200.0,79.0,0.0,281.0,0.0,Job Security,"Promotions / Appraisal, Salary & Benefits",22
+Ninjacart,3.8,Internet,Bengaluru,2000.0,5200.0,103.0,20.0,137.0,23.0,Salary & Benefits,"Job Security, Promotions / Appraisal",113
+Novartis,4.1,Pharma,Hyderabad,2000.0,10000.0,167.0,140.0,226.0,15.0,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,76
+K12 Techno Services,3.7,EdTech,Bengaluru,2000.0,5200.0,418.0,279.0,61.0,1.0,Not Mentioned,"Promotions / Appraisal, Job Security",44
+HSBC Electronic Data Processing,4.0,IT Services & Consulting,Bengaluru,2000.0,8600.0,88.0,0.0,20.0,0.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,20
+Valeo,3.9,Auto Components,Chennai,1900.0,7900.0,105.0,144.0,127.0,3.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,172
+SAP,4.1,Software Product,Bengaluru,1900.0,17500.0,316.0,235.0,284.0,22.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,54
+IDBI Bank,3.4,Banking,Mumbai,1900.0,6000.0,82.0,0.0,137.0,6.0,Not Mentioned,"Promotions / Appraisal, Company Culture, Work Life Balance",331
+AECOM,4.2,Engineering & Construction,Gurugram,1900.0,7000.0,151.0,217.0,243.0,14.0,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,123
+Narayana Health,4.0,Healthcare,Bengaluru,1900.0,6000.0,93.0,127.0,143.0,0.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,65
+L&T Energy Hydrocarbon,3.8,Engineering & Construction,Vadodara,1900.0,8300.0,118.0,0.0,201.0,9.0,"Job Security, Skill Development / Learning","Promotions / Appraisal, Work Life Balance, Company Culture",89
+Aditya Birla Health Insurance Co,3.7,Insurance,Mumbai,1900.0,7200.0,121.0,0.0,93.0,1.0,Not Mentioned,Promotions / Appraisal,251
+Honeywell Automation,3.7,Industrial Automation,Pune,1900.0,11900.0,133.0,0.0,159.0,0.0,Not Mentioned,"Promotions / Appraisal, Work Satisfaction",79
+Paisabazaar.com,3.4,Internet,Gurugram,1900.0,7000.0,167.0,46.0,98.0,25.0,Not Mentioned,"Job Security, Promotions / Appraisal, Company Culture",36
+Schindler,3.9,Industrial Machinery,Pune,1900.0,6200.0,123.0,64.0,194.0,3.0,"Skill Development / Learning, Company Culture, Salary & Benefits",Promotions / Appraisal,89
+R.R. Donnelley,3.6,Marketing & Advertising,Chennai,1900.0,10100.0,128.0,35.0,243.0,1.0,Job Security,"Promotions / Appraisal, Salary & Benefits",27
+Trent,3.8,Retail,Mumbai,1900.0,4800.0,109.0,11.0,133.0,8.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,144
