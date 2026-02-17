@@ -15,7 +15,7 @@ The objective is to analyze:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Tech Stack
+**Tech Stack**
 
 Python
 
@@ -53,7 +53,7 @@ Fixed formatting inconsistencies
 
 Handled duplicate entries
 
-***********************************************************************************************************************************************
+__________________________________________________________________________________________________________________________________________________________________________________________________
 
 **3️.Exploratory Data Analysis**
 
@@ -65,7 +65,9 @@ Review distribution insights
 
 Top city concentration analysis
 
-📊 Key Insights
+__________________________________________________________________________________________________________________________________________________________________________________________________
+
+**Key Insights**
 
 Bengaluru dominates IT Services & Consulting.
 
@@ -75,7 +77,7 @@ Higher salary does not always correlate with higher rating.
 
 IT Services has the highest overall company concentration.
 
-📂 Files in Repository
+**Files in Repository**
 
 Ambition_Box_web scraping-EDA-project.ipynb → Complete scraping + EDA notebook
 
@@ -85,7 +87,9 @@ Ambition-Box_cleaned_data.xls → Cleaned dataset
 
 requirements.txt → Required libraries
 
-🚀 How to Run the Project
+__________________________________________________________________________________________________________________________________________________________________________________________________
+
+**How to Run the Project**
 
 Clone the repository
 
@@ -93,10 +97,11 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-
 Run the notebook
 
-👩‍💻 Author
+__________________________________________________________________________________________________________________________________________________________________________________________________
+
+Author:
 
 Sowmya Kona
 Aspiring Data Scientist | Python | SQL | Machine Learning
