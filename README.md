@@ -45,37 +45,37 @@ ________________________________________________________________________________
 
 **2️.Data Cleaning**
 
-Removed null values
+- Removed null values
 
-Standardized company names
+- Standardized company names
 
-Fixed formatting inconsistencies
+- Fixed formatting inconsistencies
 
-Handled duplicate entries
+- Handled duplicate entries
 
 __________________________________________________________________________________________________________________________________________________________________________________________________
 
 **3️.Exploratory Data Analysis**
 
-Industry vs Location pivot analysis
+- Industry vs Location pivot analysis
 
-Salary vs Rating scatter analysis
+- Salary vs Rating scatter analysis
 
-Review distribution insights
+- Review distribution insights
 
-Top city concentration analysis
+- Top city concentration analysis
 
 __________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Key Insights**
 
-Bengaluru dominates IT Services & Consulting.
+- Bengaluru dominates IT Services & Consulting.
 
-Mumbai shows strong presence in Banking and Insurance.
+- Mumbai shows strong presence in Banking and Insurance.
 
-Higher salary does not always correlate with higher rating.
+- Higher salary does not always correlate with higher rating.
 
-IT Services has the highest overall company concentration.
+- IT Services has the highest overall company concentration.
 
 **Files in Repository**
 
