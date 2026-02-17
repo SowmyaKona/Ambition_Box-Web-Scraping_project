@@ -1,4 +1,4 @@
-AmbitionBox Web Scraping & EDA Project
+***AmbitionBox Web Scraping & EDA Project***
 - Project Overview
 
 This project focuses on scraping company data from AmbitionBox and performing data cleaning and exploratory data analysis (EDA) to extract meaningful insights.
@@ -12,6 +12,8 @@ The objective is to analyze:
 - Salary vs Rating relationship
 
 - Review trends and employee sentiment
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Tech Stack
 
@@ -31,11 +33,15 @@ Matplotlib
 
 Seaborn
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ***Project Workflow***
 
 **1️.Web Scraping**
 
 Extracted company details including industry, location, salaries, ratings, reviews, and benefits.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________
 
 **2️.Data Cleaning**
 
